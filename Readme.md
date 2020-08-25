@@ -4,6 +4,7 @@
 
 * [Blazor](https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-3.1) is a framework for building interactive client-side web UI with .NET
 * [Radzen Blazor Components](https://blazor.radzen.com/) is a free set of 50+ native Blazor UI controls.
+* [bUnit](https://github.com/egil/bUnit) is a testing library for Blazor Components
 * [Docker](https://www.docker.com/) is a set of platform as a service (PaaS) products that use OS-level virtualization to deliver software in packages called containers.
 * [AWS copilot](https://github.com/aws/copilot-cli/wiki) is a tool for developers to create, release and manage production ready containerized applications on Amazon ECS and AWS Fargate.
 
