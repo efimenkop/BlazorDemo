@@ -12,6 +12,10 @@
 
 ![architecture diagram](docs/architecture.png)
 
+## CI/CD
+
+![ci/cd diagram](docs/ci-cd.png)
+
 ## Local development
 
 ### Prerequisites
