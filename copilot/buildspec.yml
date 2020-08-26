@@ -5,6 +5,7 @@ phases:
     runtime-versions:
       docker: 18
       ruby: 2.6
+      dotnet: 3.1
     commands:
       - echo "cd into $CODEBUILD_SRC_DIR"
       - cd $CODEBUILD_SRC_DIR
@@ -14,8 +15,8 @@ phases:
       - chmod +x ./copilot-linux
   build:
     commands:
-      - echo "Run your tests"
-      #- dotnet test
+      - echo "Run unit tests"
+      - dotnet test
   post_build:
     commands:
       - ls -l
