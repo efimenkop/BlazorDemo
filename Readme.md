@@ -1,6 +1,6 @@
 # Blazor Sample Application
 
-# Features
+# What this sample has:
 
 * [Blazor](https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-3.1) is a framework for building interactive client-side web UI with .NET
 * [Radzen Blazor Components](https://blazor.radzen.com/) is a free set of 50+ native Blazor UI controls.
